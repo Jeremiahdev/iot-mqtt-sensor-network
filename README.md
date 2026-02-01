@@ -75,7 +75,7 @@ iot-mqtt-sensor-network
 3. Start MQTT subscriber service to ingest data into SQLite  
 4. Launch dashboard locally or deploy frontend for public viewing  
 
-> Detailed setup steps are provided in each subdirectory README.
+
 
 ---
 
